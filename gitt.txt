@@ -15,4 +15,4 @@ git github 3. gün ilk deneme
 git github 3. gün ikinci deneme
 master branch yeni ekleme
 3.gün 3. deneme beyza branchi
-
+beyza branchi 2.denemeeee
